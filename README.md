@@ -9,6 +9,6 @@ Postman collection testing the `/posts` endpoint of JSONPlaceholder API.
 
 All 3 tests passing.
 
-![Test Results](test-results-screenshot.png)
+![Test Results](gh.png)
 
 To run: import `My Collection.postman_collection.json` into Postman.
